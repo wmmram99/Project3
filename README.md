@@ -21,6 +21,7 @@ result ={
 'most_requested_file':[0,[]],
 'least_requested_file':[0,[]]
 }
+#Got to this point and was given error. Could not get beyond this point. Worked with another group and helped me understand everything #that followed but could not figure out why I recieved a python.txt dosnt exist. 
 file = open('python.txt')
 date_day = None
 days = 0
